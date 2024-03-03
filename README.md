@@ -15,3 +15,6 @@ The Streamlit web application component enables users to interactively input the
 User Interface: The user interface is designed to be intuitive and user-friendly, allowing users to input parameters such as age, gender, cholesterol levels, and other relevant factors.
 Prediction: Upon user input, the application leverages the pre-trained XGBoost model to predict the likelihood of heart disease based on the provided data.
 Visual Feedback: Users receive visual feedback in the form of error or success messages, indicating whether they are likely to have a heart disease based on the input parameters.
+
+![Screenshot 2024-03-03 184358](https://github.com/yuseiff/AI-Powered-Heart-Disease-Detection-Web-App-/assets/111249341/aaaa248d-3d08-40af-ac61-5f8a17a7f925)
+
