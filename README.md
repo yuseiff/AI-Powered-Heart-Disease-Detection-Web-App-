@@ -17,4 +17,6 @@ Prediction: Upon user input, the application leverages the pre-trained XGBoost m
 Visual Feedback: Users receive visual feedback in the form of error or success messages, indicating whether they are likely to have a heart disease based on the input parameters.
 
 ![Screenshot 2024-03-03 184358](https://github.com/yuseiff/AI-Powered-Heart-Disease-Detection-Web-App-/assets/111249341/aaaa248d-3d08-40af-ac61-5f8a17a7f925)
+![Screenshot 2024-03-03 184255](https://github.com/yuseiff/AI-Powered-Heart-Disease-Detection-Web-App-/assets/111249341/e10522ba-6c10-479b-9a79-06e71fdcde0d)
 
+![Screenshot 2024-03-03 184238](https://github.com/yuseiff/AI-Powered-Heart-Disease-Detection-Web-App-/assets/111249341/74d4f276-c7f9-4fbf-a516-301f955622df)
