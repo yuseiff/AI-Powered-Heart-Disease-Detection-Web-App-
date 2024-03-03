@@ -1,4 +1,4 @@
-# Heart Disease Detection System
+# Heart Disease Detection web Application
 This project encompasses a comprehensive Heart Disease Detection System implemented using Python, machine learning techniques, and a user-friendly web application interface built with Streamlit.
 
 ## Data Science and Machine Learning
